@@ -1,0 +1,9 @@
+C:\Users\Samsung\Desktop\Mine\MineTests\bin\Debug\MineTests.dll
+C:\Users\Samsung\Desktop\Mine\MineTests\bin\Debug\MineTests.pdb
+C:\Users\Samsung\Desktop\Mine\MineTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Samsung\Desktop\Mine\MineTests\bin\Debug\Mine.exe
+C:\Users\Samsung\Desktop\Mine\MineTests\bin\Debug\Mine.pdb
+C:\Users\Samsung\Desktop\Mine\MineTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Samsung\Desktop\Mine\MineTests\obj\Debug\MineTests.csprojResolveAssemblyReference.cache
+C:\Users\Samsung\Desktop\Mine\MineTests\obj\Debug\MineTests.dll
+C:\Users\Samsung\Desktop\Mine\MineTests\obj\Debug\MineTests.pdb

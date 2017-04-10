@@ -1,0 +1,6 @@
+C:\Users\Samsung\Desktop\Mine\Mine\bin\Debug\Mine.exe.config
+C:\Users\Samsung\Desktop\Mine\Mine\bin\Debug\Mine.exe
+C:\Users\Samsung\Desktop\Mine\Mine\bin\Debug\Mine.pdb
+C:\Users\Samsung\Desktop\Mine\Mine\obj\Debug\Mine.exe
+C:\Users\Samsung\Desktop\Mine\Mine\obj\Debug\Mine.pdb
+C:\Users\Samsung\Desktop\Mine\Mine\obj\Debug\Mine.csprojResolveAssemblyReference.cache
