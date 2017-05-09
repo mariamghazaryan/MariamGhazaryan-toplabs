@@ -1,0 +1,6 @@
+C:\Users\Samsung\Desktop\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\Samsung\Desktop\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\Samsung\Desktop\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\Samsung\Desktop\Bank\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+C:\Users\Samsung\Desktop\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\Samsung\Desktop\Bank\Bank\obj\Debug\Bank.pdb
