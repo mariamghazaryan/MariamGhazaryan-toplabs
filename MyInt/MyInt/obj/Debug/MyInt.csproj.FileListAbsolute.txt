@@ -1,0 +1,5 @@
+C:\Users\Samsung\Desktop\MyInt\MyInt\bin\Debug\MyInt.exe.config
+C:\Users\Samsung\Desktop\MyInt\MyInt\bin\Debug\MyInt.exe
+C:\Users\Samsung\Desktop\MyInt\MyInt\bin\Debug\MyInt.pdb
+C:\Users\Samsung\Desktop\MyInt\MyInt\obj\Debug\MyInt.exe
+C:\Users\Samsung\Desktop\MyInt\MyInt\obj\Debug\MyInt.pdb
