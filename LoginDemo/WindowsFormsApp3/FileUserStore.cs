@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 
@@ -6,22 +6,12 @@ namespace WindowsFormsApp3
 {
     public class FileUserStore : IUserStore
     {
-        private InMemoryUserStore _store;
-
-        public FileUserStore(InMemoryUserStore store)
-        {
-            _store = store;
-        }
         public void AddUser(User user)
         {
-            string userInformation;         
-            foreach (var _user in _store.GetUsers())
-            {
-                userInformation = _user.Name + "^^TopLabs^^"
-                    + _user.Username + "^^TopLabs^^" + _user.Password
+            string userInformation  = user.Name + "^^TopLabs^^"
+                    + user.Username + "^^TopLabs^^" + user.Password
                     + "^^TopLabs^^" + Environment.NewLine;
-                File.AppendAllText("User.toplabs", userInformation); 
-            }
+                File.AppendAllText("User.toplabs", userInformation);             
         }
         public List<User> GetUsers()
         {
