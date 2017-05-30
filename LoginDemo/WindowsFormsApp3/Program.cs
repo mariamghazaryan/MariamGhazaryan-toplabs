@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Windows.Forms;
 
 namespace WindowsFormsApp3
@@ -11,10 +11,9 @@ namespace WindowsFormsApp3
         [STAThread]
         static void Main()
         {
-            // CHANGE IT TO FileUserStore !!!!
-            var inMemmoryUserStore = new InMemoryUserStore();            
-            var fileUserStore = new FileUserStore(inMemmoryUserStore);
-            var userService = new UserService(inMemmoryUserStore, fileUserStore);
+            // CHANGE IT TO FileUserStore !!!!                
+            var fileUserStore = new FileUserStore();
+            var userService = new UserService(fileUserStore);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Login(userService,fileUserStore));
